@@ -1,4 +1,5 @@
-<div align="center">
+<div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
+
   <img src="your_profile_image_url" alt="Kate Ann Nicolas" width="200"/>
 
 # Hello, Kate Ann Nicolas 👋
@@ -8,12 +9,12 @@ I'm a passionate coder with a flair for database management. I thrive on solving
 ## 📚 Education
 
 - **BS Information System**
-   New Era University
-   *2021 - Present*
+  - New Era University
+  - *2021 - Present*
 
 - **ADM Strands**
-   Eclaro Academy
-   *2018-2020*
+  - Eclaro Academy
+  - *2018-2020*
 
 ## 🏆 Certifications
 
