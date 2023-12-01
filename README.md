@@ -23,6 +23,8 @@ I'm a passionate coder with a flair for database management. I thrive on solving
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://certification-link2.com)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://certification-link3.com)
 - [SQL and Relational Databases 101](https://certification-link4.com)
+- [Get started using Google Analytics ](https://skillshop.credential.net/2b2386a6-0abb-4e0d-b610-6b6ca3690e18)
+- [Coursera Python Basic ]([https://certification-link4.com](https://www.coursera.org/account/accomplishments/certificate/TDFJC62TPBSA))
 
 ## 💻 Skill Sets
 
@@ -41,5 +43,5 @@ I'm a passionate coder with a flair for database management. I thrive on solving
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](LinkedIn_Profile_Link)
-- Email: juandelacruz@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kate-ann-nicolas-6b9373272/)
+- Email: nicolaskateann06@gmail.com
