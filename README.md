@@ -42,5 +42,3 @@ I'm a passionate coder with a flair for database management. I thrive on solving
 
 - [LinkedIn](LinkedIn_Profile_Link)
 - Email: juandelacruz@gmail.com
-
-</div>
