@@ -16,7 +16,7 @@ I am a passionate coder with a flair for database management. I thrive on solvin
 
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](Certification_Link_1)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](Certification_Link_2)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate]([(https://catalog-education.oracle.com/pls/certview/sharebadge?id=0120A52836CC68810F57BA6D74E5B04C87C4A5EF46D7DDE7113B414C85F8302A)])
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0120A52836CC68810F57BA6D74E5B04C87C4A5EF46D7DDE7113B414C85F8302A))
 - [SQL and Relational Databases 101](Certification_Link_4)
 
 ## Skill Sets
