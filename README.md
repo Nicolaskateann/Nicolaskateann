@@ -9,8 +9,8 @@ I am a passionate coder with a flair for database management. I thrive on solvin
   - 2021 - Present
 
 - **ADM Strands**
-  -Eclaro Academy
-  -2018-2020
+  - Eclaro Academy
+  - 2018-2020
 
 ## Certifications
 
