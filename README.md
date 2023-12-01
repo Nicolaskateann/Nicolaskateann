@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #blue; padding: 20px; border-radius: 10px;">
 
-  <img src="your_profile_image_url" alt="Kate Ann Nicolas" width="200"/>
+  <img src="!(https://github.com/Nicolaskateann/Nicolaskateann/assets/152600123/30007333-dfb6-4cdf-a383-66cf110a76c9)" alt="Kate Ann Nicolas" width="200"/>
 
 ## Hello, Kate Ann Nicolas 👋
 
@@ -45,3 +45,4 @@ I'm a passionate coder with a flair for database management. I thrive on solving
 
 - [LinkedIn](https://www.linkedin.com/in/kate-ann-nicolas-6b9373272/)
 - Email: nicolaskateann06@gmail.com
+![kate](https://github.com/Nicolaskateann/Nicolaskateann/assets/152600123/30007333-dfb6-4cdf-a383-66cf110a76c9)
