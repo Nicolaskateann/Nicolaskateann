@@ -5,7 +5,7 @@
 # Hello, Kate Ann Nicolas 👋
 
 I'm a passionate coder with a flair for database management. I thrive on solving complex problems and crafting elegant solutions. My tech journey began with the BS Information Systems program.
-
+</div>
 ## 📚 Education
 
 - **BS Information System**
