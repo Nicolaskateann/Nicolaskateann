@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #blue; padding: 20px; border-radius: 10px;">
 
-  <img src="![kate](https://github.com/Nicolaskateann/Nicolaskateann/assets/152600123/30007333-dfb6-4cdf-a383-66cf110a76c9)" alt="Kate Ann Nicolas" width="200"/>
+  <img src="https://github.com/Nicolaskateann/Nicolaskateann/assets/152600123/30007333-dfb6-4cdf-a383-66cf110a76c9" alt="Kate Ann Nicolas" width="200"/>
 
 ## Hello, Kate Ann Nicolas 👋
 
