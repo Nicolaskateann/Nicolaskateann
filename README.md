@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #blue; padding: 20px; border-radius: 10px;">
 
   <img src="your_profile_image_url" alt="Kate Ann Nicolas" width="200"/>
 
