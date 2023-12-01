@@ -2,7 +2,7 @@
 
   <img src="your_profile_image_url" alt="Kate Ann Nicolas" width="200"/>
 
-# Hello, Kate Ann Nicolas 👋
+## Hello, Kate Ann Nicolas 👋
 
 I'm a passionate coder with a flair for database management. I thrive on solving complex problems and crafting elegant solutions. My tech journey began with the BS Information Systems program.
 </div>
