@@ -1,25 +1,28 @@
+<div align="center">
+  <img src="your_profile_image_url" alt="Kate Ann Nicolas" width="200"/>
+
 # Hello, Kate Ann Nicolas 👋
 
-I am a passionate coder with a flair for database management. I thrive on solving complex problems and crafting elegant solutions. My journey in tech began when I enrolled in the BS Information Systems program.
+I'm a passionate coder with a flair for database management. I thrive on solving complex problems and crafting elegant solutions. My tech journey began with the BS Information Systems program.
 
-## Education
+## 📚 Education
 
 - **BS Information System**
   - New Era University
-  - 2021 - Present
+  - *2021 - Present*
 
 - **ADM Strands**
   - Eclaro Academy
-  - 2018-2020
+  - *2018-2020*
 
-## Certifications
+## 🏆 Certifications
 
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=522B9EDDB580DC922C6B4B9E868C39B087A70C7B184CBA4FE76B397213CB110B)
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=07E1D1BEEB8745B5DE49FA3435612934C6C6341388A45EB87F082EDFE6A0F0B2)
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0120A52836CC68810F57BA6D74E5B04C87C4A5EF46D7DDE7113B414C85F8302A))
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/1169cc5d30de4798a6ff99d1f07cafc1)
+- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://certification-link1.com)
+- [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://certification-link2.com)
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://certification-link3.com)
+- [SQL and Relational Databases 101](https://certification-link4.com)
 
-## Skill Sets
+## 💻 Skill Sets
 
 - **Programming:**
   - Java
@@ -34,7 +37,9 @@ I am a passionate coder with a flair for database management. I thrive on solvin
   - Eclipse
   - HTML
 
-## Let's Connect
+## 🌐 Let's Connect
 
-- LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
+- [LinkedIn](LinkedIn_Profile_Link)
 - Email: juandelacruz@gmail.com
+
+</div>
