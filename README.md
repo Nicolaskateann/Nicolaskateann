@@ -1,10 +1,11 @@
-<div align="center" style="background-color: #blue; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #3498db; padding: 20px; border-radius: 10px;">
 
   <img src="https://github.com/Nicolaskateann/Nicolaskateann/assets/152600123/30007333-dfb6-4cdf-a383-66cf110a76c9" alt="Kate Ann Nicolas" width="200"/>
 
-## Hello, Kate Ann Nicolas 👋
+# Hello, Kate Ann Nicolas 👋
 
 I'm a passionate coder with a flair for database management. I thrive on solving complex problems and crafting elegant solutions. My tech journey began with the BS Information Systems program.
+
 </div>
 
 ## 📚 Education
@@ -23,8 +24,8 @@ I'm a passionate coder with a flair for database management. I thrive on solving
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://certification-link2.com)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://certification-link3.com)
 - [SQL and Relational Databases 101](https://certification-link4.com)
-- [Get started using Google Analytics ](https://skillshop.credential.net/2b2386a6-0abb-4e0d-b610-6b6ca3690e18)
-- [Coursera Python Basic ]([https://certification-link4.com](https://www.coursera.org/account/accomplishments/certificate/TDFJC62TPBSA))
+- [Get started using Google Analytics](https://skillshop.credential.net/2b2386a6-0abb-4e0d-b610-6b6ca3690e18)
+- [Coursera Python Basics](https://www.coursera.org/account/accomplishments/certificate/TDFJC62TPBSA)
 
 ## 💻 Skill Sets
 
