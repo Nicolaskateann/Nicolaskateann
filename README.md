@@ -8,12 +8,12 @@ I'm a passionate coder with a flair for database management. I thrive on solving
 ## 📚 Education
 
 - **BS Information System**
-  - New Era University
-  - *2021 - Present*
+   New Era University
+   *2021 - Present*
 
 - **ADM Strands**
-  - Eclaro Academy
-  - *2018-2020*
+   Eclaro Academy
+   *2018-2020*
 
 ## 🏆 Certifications
 
